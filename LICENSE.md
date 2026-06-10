@@ -1,4 +1,4 @@
-# 
+# 开源 AI Meeting Notes Summarizer 插件。集成 自然语言处理 和 深度学习模型，性能最大化。
 
 
 
